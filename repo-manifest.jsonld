@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/cricket/commit/0aa8e6a7fff2d44f8cf774ca1945cbdbb4ff529d",
       "git:hexsha": "0aa8e6a7fff2d44f8cf774ca1945cbdbb4ff529d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/cricket/commit/0e1fedd2c8651ac30257a0e22c34c130212c2e66",
